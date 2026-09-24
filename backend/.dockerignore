@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+.coverage
+htmlcov
+.env
+*.db
+hotel_booking.db
+.venv
+venv
+ENV/
+tests/
